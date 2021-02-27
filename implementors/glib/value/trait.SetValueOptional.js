@@ -1,0 +1,5 @@
+(function() {var implementors = {};
+implementors["cairo"] = [{"text":"impl SetValueOptional for Context","synthetic":false,"types":[]},{"text":"impl SetValueOptional for Device","synthetic":false,"types":[]},{"text":"impl SetValueOptional for ImageSurface","synthetic":false,"types":[]},{"text":"impl SetValueOptional for RecordingSurface","synthetic":false,"types":[]},{"text":"impl SetValueOptional for Rectangle","synthetic":false,"types":[]},{"text":"impl SetValueOptional for RectangleInt","synthetic":false,"types":[]},{"text":"impl SetValueOptional for Region","synthetic":false,"types":[]},{"text":"impl SetValueOptional for Surface","synthetic":false,"types":[]}];
+implementors["gdk"] = [{"text":"impl SetValueOptional for Rectangle","synthetic":false,"types":[]},{"text":"impl SetValueOptional for RGBA","synthetic":false,"types":[]}];
+implementors["glib"] = [];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

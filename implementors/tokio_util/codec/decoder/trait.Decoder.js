@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["actix_http"] = [{"text":"impl Decoder for ClientCodec","synthetic":false,"types":[]},{"text":"impl Decoder for ClientPayloadCodec","synthetic":false,"types":[]},{"text":"impl Decoder for Codec","synthetic":false,"types":[]},{"text":"impl Decoder for Codec","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

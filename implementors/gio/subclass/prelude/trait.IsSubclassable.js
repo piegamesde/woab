@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gio"] = [{"text":"impl&lt;T:&nbsp;ObjectSubclass + ApplicationImpl&gt; IsSubclassable&lt;T&gt; for ApplicationClass","synthetic":false,"types":[]},{"text":"impl&lt;T:&nbsp;ObjectSubclass + InputStreamImpl&gt; IsSubclassable&lt;T&gt; for InputStreamClass","synthetic":false,"types":[]},{"text":"impl&lt;T:&nbsp;ObjectSubclass + IOStreamImpl&gt; IsSubclassable&lt;T&gt; for IOStreamClass","synthetic":false,"types":[]},{"text":"impl&lt;T:&nbsp;ObjectSubclass + OutputStreamImpl&gt; IsSubclassable&lt;T&gt; for OutputStreamClass","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

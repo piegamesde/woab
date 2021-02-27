@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["gio"] = [{"text":"impl AsRawFd for Socket","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixInputStream","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixOutputStream","synthetic":false,"types":[]}];
+implementors["mio"] = [{"text":"impl AsRawFd for Poll","synthetic":false,"types":[]},{"text":"impl AsRawFd for TcpStream","synthetic":false,"types":[]},{"text":"impl AsRawFd for TcpListener","synthetic":false,"types":[]},{"text":"impl AsRawFd for UdpSocket","synthetic":false,"types":[]}];
+implementors["mio_uds"] = [{"text":"impl AsRawFd for UnixDatagram","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixListener","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixStream","synthetic":false,"types":[]}];
+implementors["net2"] = [{"text":"impl AsRawFd for TcpBuilder","synthetic":false,"types":[]},{"text":"impl AsRawFd for UdpBuilder","synthetic":false,"types":[]}];
+implementors["socket2"] = [{"text":"impl AsRawFd for Socket","synthetic":false,"types":[]}];
+implementors["tokio"] = [{"text":"impl AsRawFd for TcpListener","synthetic":false,"types":[]},{"text":"impl AsRawFd for TcpStream","synthetic":false,"types":[]},{"text":"impl AsRawFd for UdpSocket","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixDatagram","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixListener","synthetic":false,"types":[]},{"text":"impl AsRawFd for UnixStream","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
